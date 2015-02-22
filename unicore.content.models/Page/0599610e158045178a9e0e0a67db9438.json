@@ -1,0 +1,31 @@
+{
+  "subtitle": "", 
+  "description": "\u00a1Hazlos realidad!", 
+  "language": "spa_CO", 
+  "title": "\u00bfTienes sue\u00f1os?", 
+  "primary_category": "a27e8d5552bd40d78d84d949b7d750cb", 
+  "created_at": "2014-12-11T05:44:27+00:00", 
+  "featured_in_category": false, 
+  "modified_at": "2015-01-14T05:00:13.453950+00:00", 
+  "_version": {
+    "package_version": "0.3.1", 
+    "language_version": "2.7.6", 
+    "language": "python", 
+    "language_version_string": "2.7.6 (default, Mar 22 2014, 23:03:41) \n[GCC 4.8.2]", 
+    "package": "elastic-git"
+  }, 
+  "linked_pages": [
+    "243c2570e30247a7a3bda3dcfffbae9f"
+  ], 
+  "id": null, 
+  "content": "**\u00bfTienes sue\u00f1os? \u00a1Hazlos realidad!**\r\n\r\n * Si tienes un objetivo claro en mente, encuentra a las personas que hayan tenido \u00e9xito en ese mismo campo. Preg\u00fantales c\u00f3mo lo lograron.  \r\n  * Lee todo lo que puedas sobre la gente exitosa en tu campo. Toma nota de los recorridos que hayan emprendido y de las decisiones que hayan tomado.  \r\n  * Busca un programa de capacitaci\u00f3n o un club para chicas en el que puedan ayudarte a aprender acerca de la gesti\u00f3n financiera, los presupuestos y los ahorros. Estas habilidades te ayudar\u00e1n toda tu vida. \r\n  * No temas cometer errores durante la experiencia. Por el contrario, aprende de ellos. Te har\u00e1n m\u00e1s fuerte.\r\n  * Cree en tus objetivos y mantente motivada. Acepta que puede haber tiempos dif\u00edciles, pero ten en claro que \u00a1puedes lograr grandes cosas en la vida! \r\n\r\n**Aurore vive en Ruanda. Ha perseguido sus sue\u00f1os de comenzar su propio negocio.\r\nLee su historia aqu\u00ed:** \r\n", 
+  "source": "c0412b37734449e5a60d6e3a43399f4c", 
+  "featured": false, 
+  "author_tags": [], 
+  "image": null, 
+  "published": null, 
+  "position": 24, 
+  "image_host": "http://thumbor.unicore.io", 
+  "slug": "do-you-have-dreams", 
+  "uuid": "0599610e158045178a9e0e0a67db9438"
+}

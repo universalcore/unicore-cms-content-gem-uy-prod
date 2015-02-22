@@ -1,0 +1,31 @@
+{
+  "subtitle": "", 
+  "description": "Tengo que estar atenta", 
+  "language": "spa_CO", 
+  "title": "Los chicos de la esquina", 
+  "primary_category": "3a9ec7e44376487dae852de2e4dc9ee7", 
+  "created_at": "2014-12-11T09:42:00+00:00", 
+  "featured_in_category": true, 
+  "modified_at": "2014-12-11T11:08:06.972367+00:00", 
+  "_version": {
+    "package_version": "0.3.1", 
+    "language_version": "2.7.6", 
+    "language_version_string": "2.7.6 (default, Mar 22 2014, 23:03:41) \n[GCC 4.8.2]", 
+    "language": "python", 
+    "package": "elastic-git"
+  }, 
+  "linked_pages": [
+    "11e368fea7624c598bd9eacb4990fb28"
+  ], 
+  "id": null, 
+  "content": "*Todos los d\u00edas, las chicas enfrentan situaciones peligrosas en sus propias comunidades. Podr\u00edan ser matones en la escuela, o burlas y acoso en el mercado o en el autob\u00fas. Esta es la historia de una chica.*\r\n\r\nMi nombre es Faith. Iba de regreso a mi casa luego de haber ido a buscar agua. Era tarde por la noche, y yo estaba sola. Adelante, pude ver un grupo de tres chicos adolescentes en la esquina, afuera de un bar. Sab\u00eda que me traer\u00edan problemas.  No disminu\u00ed la velocidad. No quer\u00eda que supieran que estaba asustada. Entonces, lo que hice fue cruzar la calle para evitarlos. Era demasiado tarde para dar la vuelta.\r\n\r\nMe estaban observando y esperando.  Cruzaron la calle y comenzaron a seguirme.  Mi coraz\u00f3n lat\u00eda fuerte. Ten\u00eda mucho miedo. Comenzaron a silbarme y a decirme cosas. Me invitaron a ir al bar con ellos. \r\n\r\nLa calle estaba totalmente vac\u00eda. No hab\u00eda nadie a quien pudiera pedirle ayuda. Camin\u00e9 m\u00e1s r\u00e1pido. Luego, uno de ellos me tom\u00f3 del brazo por atr\u00e1s. \r\n\r\nEntr\u00e9 en p\u00e1nico. Me quit\u00e9 su brazo de encima y sal\u00ed corriendo. Mientras doblaba la esquina, pude ver una tienda abierta. Corr\u00ed tan r\u00e1pido como pude y entr\u00e9. Apenas estuve adentro de la tienda, me sent\u00ed mejor. No estaba sola, y hab\u00eda un comerciante all\u00ed. Llam\u00f3 a mi hermano, quien vino a buscarme. \r\n\r\nTratar\u00e9 de encontrar otro camino a casa y una amiga que me acompa\u00f1e. No estoy segura de lo que podr\u00eda haber pasado con los chicos, pero s\u00e9 que estaba muy asustada. Si hubiera estado con una amiga, me habr\u00eda sentido m\u00e1s segura.\r\n", 
+  "source": "7e28c971bde34657a6100b7a9b878307", 
+  "featured": false, 
+  "author_tags": [], 
+  "image": null, 
+  "published": null, 
+  "position": 6, 
+  "image_host": "http://thumbor.unicore.io", 
+  "slug": "Faith", 
+  "uuid": "af7dfc4e6daa429c910d7c5d1634407f"
+}

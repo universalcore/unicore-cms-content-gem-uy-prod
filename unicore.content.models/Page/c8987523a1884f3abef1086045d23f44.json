@@ -1,0 +1,29 @@
+{
+  "subtitle": "", 
+  "description": "", 
+  "language": "spa_CO", 
+  "title": "Acerca de", 
+  "primary_category": null, 
+  "created_at": "2014-12-11T09:57:07.377118+00:00", 
+  "featured_in_category": false, 
+  "modified_at": "2014-12-11T09:57:07.377313+00:00", 
+  "_version": {
+    "package_version": "0.3.1", 
+    "language_version": "2.7.6", 
+    "language_version_string": "2.7.6 (default, Mar 22 2014, 23:03:41) \n[GCC 4.8.2]", 
+    "language": "python", 
+    "package": "elastic-git"
+  }, 
+  "linked_pages": [], 
+  "id": null, 
+  "content": "La idea de Girl Effect comenz\u00f3 cuando un grupo de personas descubri\u00f3 que las ni\u00f1as\r\n pueden ser la m\u00e1s poderosa fuerza de cambio del mundo, si se les da la oportunidad. Divulgaron ese mensaje y ahora m\u00e1s personas, incluida gente poderosa, cree que las ni\u00f1as tienen el potencial para terminar con su pobreza, la de sus familias, comunidades y, finalmente, del mundo.  A medida que m\u00e1s personas se percataron del poder de las ni\u00f1as, Girl Effect pas\u00f3 de ser una idea a convertirse en un movimiento.  Hoy en d\u00eda, siguen uni\u00e9ndose m\u00e1s personas a Girl Effect, y esperamos que t\u00fa tambi\u00e9n puedas hacerlo.\r\n\r\n\r\nObt\u00e9n m\u00e1s informaci\u00f3n en [girleffect.org][1].\r\n\r\n\r\n  [1]: http://www.girleffect.org", 
+  "source": "6cd055c5836d45afa328d148e32372f8", 
+  "featured": false, 
+  "author_tags": [], 
+  "image": null, 
+  "published": null, 
+  "position": 0, 
+  "image_host": "http://thumbor.unicore.io", 
+  "slug": "about", 
+  "uuid": "c8987523a1884f3abef1086045d23f44"
+}
