@@ -1,0 +1,31 @@
+{
+  "subtitle": "", 
+  "description": "As\u00ed debes manejar la situaci\u00f3n", 
+  "language": "spa_CO", 
+  "title": "\u00bfTe sientes sola en el mundo?", 
+  "primary_category": "a27e8d5552bd40d78d84d949b7d750cb", 
+  "created_at": "2014-12-11T05:28:24+00:00", 
+  "featured_in_category": true, 
+  "modified_at": "2015-01-14T04:35:30.389189+00:00", 
+  "_version": {
+    "package_version": "0.3.1", 
+    "language_version": "2.7.6", 
+    "language_version_string": "2.7.6 (default, Mar 22 2014, 23:03:41) \n[GCC 4.8.2]", 
+    "language": "python", 
+    "package": "elastic-git"
+  }, 
+  "linked_pages": [
+    "1bdc97a3e6aa468fb088ace3f1fcb7f7"
+  ], 
+  "id": null, 
+  "content": "** \u00bfTE SIENTES SOLA EN EL MUNDO? AS\u00cd ES C\u00d3MO DEBES ACTUAR  ** \r\n\r\n  * Puedes sentirte sola, aun cuando todo parezca ir bien. Tal vez est\u00e9s sola y no tengas elecci\u00f3n, o no te sientas parte de un grupo o acontecimiento, o simplemente no tengas a nadie que te entienda. Sentirnos solas puede dejarnos con un mill\u00f3n de preguntas. \u00bfPor qu\u00e9 sucedi\u00f3? \u00bfFue mi culpa? \r\n  * Con frecuencia, sentirte sola te hace querer alejarte a\u00fan m\u00e1s, pero podr\u00eda haber gente tratando de ayudarte \r\n  * De a poco, re\u00fanete con amigos que te contengan y personas amables. Tener gente en tu vida con la que puedes hablar te ayudar\u00e1 a aprender a lidiar con tus desilusiones y p\u00e9rdidas. Con el tiempo, comenzar\u00e1s a confiar en la gente otra vez.\r\n  * Busca un grupo de apoyo. Fatuma encontr\u00f3 a Heshima Kenya, y hay otros grupos de apoyo en todos los pa\u00edses del mundo que pueden ayudarte a recomponer tu vida. Pregunta en una estaci\u00f3n de polic\u00eda, en una escuela o a un adulto que conozcas para que te ayuden a encontrar uno. \r\n  * No est\u00e1s sola. No todos tienen una familia, y hay otras ni\u00f1as como t\u00fa. Puedes construir relaciones s\u00f3lidas e \u00edntimas siendo una buena amiga con los dem\u00e1s. \r\n\r\n**En los \u00faltimos a\u00f1os, refugiados de Somalia, Sud\u00e1n, Etiop\u00eda y la Rep\u00fablica Democr\u00e1tica del Congo huyeron de la violencia de sus pa\u00edses y llegaron a Kenia. Lee la historia de Fatuma**\r\n", 
+  "source": "1fe011b11aec4cfbb9d62aba4cd5f434", 
+  "featured": false, 
+  "author_tags": [], 
+  "image": null, 
+  "published": null, 
+  "position": 28, 
+  "image_host": "http://thumbor.unicore.io", 
+  "slug": "do-you-feel-alone-world", 
+  "uuid": "8add2c4b8167493ba508a2b8aaee785f"
+}

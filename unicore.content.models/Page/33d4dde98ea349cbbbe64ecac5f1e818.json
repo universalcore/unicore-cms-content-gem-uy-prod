@@ -1,0 +1,31 @@
+{
+  "subtitle": "", 
+  "description": "Tu cuerpo est\u00e1 cambiando", 
+  "language": "spa_CO", 
+  "title": "\u00bfQu\u00e9 es la pubertad?", 
+  "primary_category": "a27e8d5552bd40d78d84d949b7d750cb", 
+  "created_at": "2014-12-11T08:00:20+00:00", 
+  "featured_in_category": true, 
+  "modified_at": "2014-12-11T11:06:30.875701+00:00", 
+  "_version": {
+    "package_version": "0.3.1", 
+    "language_version": "2.7.6", 
+    "language": "python", 
+    "language_version_string": "2.7.6 (default, Mar 22 2014, 23:03:41) \n[GCC 4.8.2]", 
+    "package": "elastic-git"
+  }, 
+  "linked_pages": [
+    "5652d812777b47c9956517f0f90e77da"
+  ], 
+  "id": null, 
+  "content": "**\u00bfQu\u00e9 es la pubertad?**\r\n\r\nLa pubertad es una etapa en la que atraviesas muchos cambios. Tu cuerpo comenzar\u00e1 a cambiar, y es posible que te des cuenta de que tu humor cambia. Estos son algunos aspectos que puedes esperar:\r\n\r\n - Notar\u00e1s que tus pechos comienzan a desarrollarse y comenzar\u00e1s a tener vello p\u00fabico. En este momento, tambi\u00e9n es posible que comiences a menstruar. \r\n - Es normal sentirse rara y sensible en relaci\u00f3n con los cambios en el cuerpo. Puedes sentirte irritada o deprimida, o perder la calma. Es bueno que hables con alguien cuando te sientas de esta manera.\r\n - Todas las ni\u00f1as y ni\u00f1os atraviesan la pubertad, pero no todos a la misma edad. La manera en que te desarrolles puede ser diferente a la tus amigos. Esto puede hacerte sentir preocupada o excluida, pero recuerda que todos somos diferentes y que tu cuerpo se desarrollar\u00e1 a su propio ritmo\r\n - Durante la pubertad, tal vez prefieras hablar con tus amigos, m\u00e1s que con adultos. Solo recuerda elegir buenos amigos que te fortalezcan, y que tengan objetivos y sue\u00f1os similares. \r\n\r\n**La pubertad es el nombre que se le da a la etapa en la que comienzas a pasar de ser una ni\u00f1a a ser una adulta. Es algo normal, le pasa a todo el mundo. Pasar\u00e1s por muchos cambios, pero seguir\u00e1s siendo T\u00da MISMA, con algunas importantes diferencias. Esta es la historia de una chica.**", 
+  "source": "4b9e54f1c2c547ba92fac4ee0da7ff1d", 
+  "featured": false, 
+  "author_tags": [], 
+  "image": null, 
+  "published": null, 
+  "position": 15, 
+  "image_host": "http://thumbor.unicore.io", 
+  "slug": "what-puberty", 
+  "uuid": "33d4dde98ea349cbbbe64ecac5f1e818"
+}

@@ -1,0 +1,31 @@
+{
+  "subtitle": "", 
+  "description": "Lee estos consejos", 
+  "language": "spa_CO", 
+  "title": "C\u00f3mo decir NO", 
+  "primary_category": "a27e8d5552bd40d78d84d949b7d750cb", 
+  "created_at": "2014-12-11T09:13:06+00:00", 
+  "featured_in_category": true, 
+  "modified_at": "2014-12-11T11:06:53.836506+00:00", 
+  "_version": {
+    "package_version": "0.3.1", 
+    "language_version": "2.7.6", 
+    "language": "python", 
+    "language_version_string": "2.7.6 (default, Mar 22 2014, 23:03:41) \n[GCC 4.8.2]", 
+    "package": "elastic-git"
+  }, 
+  "linked_pages": [
+    "65c84cf9ba3c4e26a12446c81d4d8001"
+  ], 
+  "id": null, 
+  "content": "\u00bfC\u00d3MO SE DICE NO? AS\u00cd:\r\n\r\n - Planif\u00edcalo. Piensa bien las situaciones y con anticipaci\u00f3n. Planifica c\u00f3mo dir\u00e1s \"no\". Dilo en voz alta y de distintas maneras. Practica frente al espejo o con una amiga de confianza.\r\n - Ev\u00edtalo. Trata de no pasar tiempo con gente que te hace sentir inc\u00f3moda o que intenta que hagas cosas que no quieres hacer. \r\n - Dilo en voz alta. Si alguien trata de convencerte de hacer algo que sabes que no debes hacer o que te hace sentir nerviosa, di NO bien fuerte.  O puedes decir: \"No, gracias. No hago ese tipo de cosas\". \r\n - Haz algo inteligente:  preg\u00fantate cu\u00e1les podr\u00edan ser las consecuencias. \u00bfQu\u00e9 podr\u00eda salir mal? \u00bfQu\u00e9 pensar\u00e1n tus amigos o tu familia si realizas esta elecci\u00f3n? \r\n - Evita un embarazo. Si deseas evitar quedar embarazada cuando tengas relaciones sexuales, deber\u00e1s usar el anticonceptivo que sea m\u00e1s adecuado para ti. Es posible que las cl\u00ednicas, el gobierno u otras organizaciones proporcionen algunos anticonceptivos gratuitamente. Investiga cerca de tu zona para averiguar d\u00f3nde puedes conseguirlos. Los preservativos pueden evitar embarazos y tambi\u00e9n protegerte contra enfermedades de transmisi\u00f3n sexual. \r\n\r\n**En todo el mundo, muchas chicas quedan embarazadas antes de estar preparadas para ello.  Khadija de Malawi es una de estas chicas. Esta es su historia:** \r\n", 
+  "source": "eb349473ac504a04aa77217ee441e27a", 
+  "featured": false, 
+  "author_tags": [], 
+  "image": null, 
+  "published": null, 
+  "position": 11, 
+  "image_host": "http://thumbor.unicore.io", 
+  "slug": "do-you-know-how-say-no", 
+  "uuid": "7eaa50350b9e4dfd8574f2d8dfaf8da6"
+}

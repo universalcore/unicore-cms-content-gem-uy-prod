@@ -1,0 +1,29 @@
+{
+  "subtitle": "", 
+  "description": "Aqu\u00ed hay algunos consejos", 
+  "language": "spa_CO", 
+  "title": "\u00bfLuchas por encontrar tu camino?", 
+  "primary_category": "a27e8d5552bd40d78d84d949b7d750cb", 
+  "created_at": "2014-12-11T06:17:27.571952+00:00", 
+  "featured_in_category": false, 
+  "modified_at": "2014-12-11T06:17:27.572144+00:00", 
+  "_version": {
+    "package_version": "0.3.1", 
+    "language_version": "2.7.6", 
+    "language_version_string": "2.7.6 (default, Mar 22 2014, 23:03:41) \n[GCC 4.8.2]", 
+    "language": "python", 
+    "package": "elastic-git"
+  }, 
+  "linked_pages": [], 
+  "id": null, 
+  "content": "**\u00bfLUCHAS POR ENCONTRAR TU CAMINO Y EXPRESAR TUS EMOCIONES?** \r\n\r\n - Prueba nuevas actividades cuando tengas la oportunidad. \u00a1Es posible que descubras un talento natural que nunca supiste que ten\u00edas!\r\n - Ali\u00e9ntate pensando en forma positiva, en vez de hacerlo negativamente. Por ejemplo, di para ti misma: \"Soy valiente\", \"soy hermosa\" o \"puedo hacerlo\".\r\n - Encuentra amigos y mentores que te apoyen en el desarrollo de tus talentos. Los amigos pueden aumentar tu autoestima, alent\u00e1ndote a seguir intentando, aun cuando te sientes desanimada. Adem\u00e1s, ellos notan cu\u00e1ndo te va bien y lo celebran contigo. Rod\u00e9ate de amigos positivos que te alienten. \r\n - Todos los que atraviesan la pubertad sienten emociones intensas. Cuando sientas que tus emociones te superan, puede ser de ayuda que inhales profundamente, que hagas alguna actividad, como bailar o salir a caminar (si es seguro), o que encuentres a una persona confiable con quien hablar. \r\n\r\n**Al vivir en la pobreza y con oportunidades limitadas, muchas j\u00f3venes luchan por encontrar su camino. Maibreidy es una chica que se sent\u00eda as\u00ed. Esta es su historia:**", 
+  "source": "4683bf5f2fc1465c9bb654126a358eb2", 
+  "featured": false, 
+  "author_tags": [], 
+  "image": null, 
+  "published": null, 
+  "position": 0, 
+  "image_host": "http://thumbor.unicore.io", 
+  "slug": "are-you-struggling-find-direction", 
+  "uuid": "2fb63d976d5943bf950e1044a44276c7"
+}

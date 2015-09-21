@@ -1,0 +1,31 @@
+{
+  "subtitle": "", 
+  "description": "Aqu\u00ed hay algunos datos", 
+  "language": "spa_CO", 
+  "title": "\u00bfYa has tenido tu primer periodo?", 
+  "primary_category": "a27e8d5552bd40d78d84d949b7d750cb", 
+  "created_at": "2014-12-11T09:21:06+00:00", 
+  "featured_in_category": true, 
+  "modified_at": "2014-12-11T11:07:24.732271+00:00", 
+  "_version": {
+    "package_version": "0.3.1", 
+    "language_version": "2.7.6", 
+    "language": "python", 
+    "language_version_string": "2.7.6 (default, Mar 22 2014, 23:03:41) \n[GCC 4.8.2]", 
+    "package": "elastic-git"
+  }, 
+  "linked_pages": [
+    "c19b2e37d36b45cea27247faa545c2ad"
+  ], 
+  "id": null, 
+  "content": "**\u00bfYa has tenido tu primer periodo?Aqu\u00ed hay algunos datos:**\r\n\r\n\r\n - Todos los meses, los ovarios liberan un \u00f3vulo, y el revestimiento del \u00fatero se engrosa en espera de alojar un embri\u00f3n, lo cual sucede cuando el \u00f3vulo es fecundado (en otras palabras, cuando quedas embarazada). Si ese mes el \u00f3vulo no es fecundado, el revestimiento del \u00fatero se desprende y tanto el \u00f3vulo como el revestimiento salen expulsados de tu cuerpo: eso es tu periodo. \r\n - Si eres delgada, es posible que no menstr\u00faes o que tu periodo sea inconstante. Si no tienes suficiente grasa, si est\u00e1s muy estresada o si no tienes suficiente hierro en la sangre, tu periodo puede detenerse. En ese caso, debes consultar con una enfermera o un m\u00e9dico. \r\n - Cuando no tienes tu periodo, tu cuerpo te est\u00e1 enviando un mensaje, as\u00ed que pr\u00e9stale atenci\u00f3n. Trata de ingerir alimentos saludables y dormir bien. Si no menstr\u00faas durante algunos meses, debes consultar con una enfermera o un m\u00e9dico. \r\n - Una vez que comiences a menstruar, tu cuerpo puede concebir, por lo tanto, puedes quedar embarazada y tener un beb\u00e9 si tienes relaciones sexuales. Debes asegurarte de utilizar protecci\u00f3n para no quedar embarazada si no est\u00e1s preparada para tener un beb\u00e9.\r\n - Es normal sentir algunos calambres en el est\u00f3mago durante la menstruaci\u00f3n. Si sientes dolores, coloca una bolsa de agua caliente en tu est\u00f3mago por un rato. Esto podr\u00eda ayudarte. Es mejor hacer ejercicio moderado, como caminar, en vez de quedarse en un solo lugar. Si tienes mucho dolor, consulta con un m\u00e9dico. \r\n - Si no dispones de toallitas higi\u00e9nicas y usas un pa\u00f1o, aseg\u00farate de que la tela sea suave, y est\u00e9 adecuadamente limpia y seca.\r\n\r\n\r\n**En todo el mundo, las ni\u00f1as usualmente comienzan a tener el periodo entre los 12 y los 14 a\u00f1os de edad, pero pueden comenzar antes o despu\u00e9s. Empezar a tener el periodo puede ser sorprendente o aterrador. Esta es la historia de una chica.** ", 
+  "source": "cc4732e92c2e46b2869509b918eba825", 
+  "featured": false, 
+  "author_tags": [], 
+  "image": null, 
+  "published": null, 
+  "position": 9, 
+  "image_host": "http://thumbor.unicore.io", 
+  "slug": "have-you-started-menstruating", 
+  "uuid": "89778e96f0f34b6b8c3a31de16993b63"
+}

@@ -1,0 +1,20 @@
+{
+  "subtitle": "", 
+  "uuid": "3a9ec7e44376487dae852de2e4dc9ee7", 
+  "language": "spa_CO", 
+  "title": "Heroicas ni\u00f1as", 
+  "image": null, 
+  "_version": {
+    "package_version": "0.3.1", 
+    "language_version": "2.7.6", 
+    "language": "python", 
+    "language_version_string": "2.7.6 (default, Mar 22 2014, 23:03:41) \n[GCC 4.8.2]", 
+    "package": "elastic-git"
+  }, 
+  "slug": "heroicas-ninas", 
+  "source": null, 
+  "position": 1, 
+  "image_host": "http://thumbor.unicore.io", 
+  "featured_in_navbar": true, 
+  "id": null
+}

@@ -1,0 +1,29 @@
+{
+  "subtitle": "", 
+  "description": "Al\u00e9jate de los g\u00e9rmenes", 
+  "language": "spa_CO", 
+  "title": "C\u00f3mo prevenir enfermedades", 
+  "primary_category": "a27e8d5552bd40d78d84d949b7d750cb", 
+  "created_at": "2014-12-11T09:39:23.265804+00:00", 
+  "featured_in_category": false, 
+  "modified_at": "2014-12-11T09:39:23.266125+00:00", 
+  "_version": {
+    "package_version": "0.3.1", 
+    "language_version": "2.7.6", 
+    "language_version_string": "2.7.6 (default, Mar 22 2014, 23:03:41) \n[GCC 4.8.2]", 
+    "language": "python", 
+    "package": "elastic-git"
+  }, 
+  "linked_pages": [], 
+  "id": null, 
+  "content": "**C\u00f3mo prevenir enfermedades**\r\n\r\n - La mayor\u00eda de los g\u00e9rmenes virales se propagan por el aire, mediante estornudos o tos. Tambi\u00e9n pueden propagarse por la transpiraci\u00f3n, la saliva y la sangre. Algunos pasan de persona en persona, cuando tocan algo que est\u00e1 contaminado, como al darle la mano a alguien que est\u00e1 resfriado y, luego, tocarse la nariz. Si uno de tus parientes est\u00e1 enfermo, c\u00fabrete la boca y mantente alejada, de ser posible. Si te encuentras en un espacio cerrado, trata de abrir una ventana para que entre aire fresco y salgan los g\u00e9rmenes. \r\n - \u00a1L\u00c1VATE LAS MANOS! Recuerda que los g\u00e9rmenes le temen al agua y al jab\u00f3n. Lavarse las manos con frecuencia es la mejor manera de combatir los g\u00e9rmenes. Mantente fuerte y saludable comiendo bien, haciendo ejercicio regularmente y durmiendo bien. Todo esto te ayudar\u00e1 a estar preparada para combatir los g\u00e9rmenes que producen enfermedades.\r\n - La tuberculosis (TB) es una enfermedad causada por bacterias muy peque\u00f1as (g\u00e9rmenes). Las bacterias de la TB se liberan al aire cuando una persona con esta enfermedad tose, estornuda, habla o canta. Las personas que est\u00e1n cerca pueden inhalar estas bacterias y contagiarse. Algunos de los s\u00edntomas que puedes notar si te has contagiado son  sudoraci\u00f3n nocturna; sensaci\u00f3n de cansancio y debilidad;  tos constante (que dura, al menos, tres semanas); sangre al toser; dolor en el pecho; un silbido al respirar; y problemas para respirar. Si te sientes extra\u00f1a o crees que algo anda mal, no esperes. Ve directo a tu cl\u00ednica, hospital o centro de salud m\u00e1s cercano.\r\n\r\n**Millones de personas en todo el mundo sufren enfermedades que se contagian de otras personas enfermas. Esta es la historia de una chica.** \r\n", 
+  "source": "849637d358b045f59864b28eb84e431f", 
+  "featured": false, 
+  "author_tags": [], 
+  "image": null, 
+  "published": null, 
+  "position": 0, 
+  "image_host": "http://thumbor.unicore.io", 
+  "slug": "how-avoid-getting-sick", 
+  "uuid": "196437c1ac8d4370b83c60241639c28e"
+}

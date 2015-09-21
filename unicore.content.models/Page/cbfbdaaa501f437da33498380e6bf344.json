@@ -1,0 +1,31 @@
+{
+  "subtitle": "", 
+  "description": "Algunas de las cosas que puedes hacer", 
+  "language": "spa_CO", 
+  "title": "Mantente a salvo", 
+  "primary_category": "a27e8d5552bd40d78d84d949b7d750cb", 
+  "created_at": "2014-12-11T05:38:14+00:00", 
+  "featured_in_category": false, 
+  "modified_at": "2015-01-14T04:32:14.065962+00:00", 
+  "_version": {
+    "package_version": "0.3.1", 
+    "language_version": "2.7.6", 
+    "language": "python", 
+    "language_version_string": "2.7.6 (default, Mar 22 2014, 23:03:41) \n[GCC 4.8.2]", 
+    "package": "elastic-git"
+  }, 
+  "linked_pages": [
+    "3433358ad54446e6a8a5a01e9749521f"
+  ], 
+  "id": null, 
+  "content": "**Mantente a salvo**\r\n\r\nDesafortunadamente, nuestro mundo no siempre es seguro, en especial para las ni\u00f1as y j\u00f3venes. Ellas pueden sufrir acoso sexual en sus hogares, en la escuela, en el mercado, en el trabajo o en cualquier otra parte. Debes prepararte para estas situaciones.\r\n\r\nAqu\u00ed hay algunos consejos que puedes SEGUIR para ayudarte a mantenerte a salvo:\r\n\r\n * Evita ir a lugares peligrosos: si sabes que un lugar al que te piden ir presenta un riesgo para tu persona u otro tipo de riesgo, si puedes, simplemente trata de no ir all\u00ed.\r\n  * Utiliza el sistema de apoyo entre compa\u00f1eros: mu\u00e9vete por espacios p\u00fablicos con uno o m\u00e1s amigos, \u00a1no vayas sola! \r\n  * Busca un acompa\u00f1ante de confianza: si te sientes insegura en determinados lugares y a determinadas horas (como cuando vas caminando a la escuela o vuelves de ella) pero DEBES IR, p\u00eddele a alguien en quien conf\u00edes que te acompa\u00f1e.\r\n  * Siempre inf\u00f3rmale a alguien m\u00e1s hacia d\u00f3nde y en qu\u00e9 momento vas, y cu\u00e1ndo regresar\u00e1s. De ser posible, p\u00eddele a alguien que se encuentre contigo en tu lugar de destino. De esta manera, si sucede algo, otras personas lo sabr\u00e1n y podr\u00e1n tomar medidas.\r\n  * CU\u00c9NTALES a los adultos cuando te suceda algo a ti o a tus amigas, y ali\u00e9ntalos a asegurarse de que esas situaciones se resuelvan y \u00a1no vuelvan a suceder!\r\n  * HAZ UN PLAN: busca a un adulto confiable a quien puedas acudir si algo sale\r\nmal. Aseg\u00farate de saber d\u00f3nde encontrar a esta persona o c\u00f3mo contactarla cuando necesites ayuda. Conversa con tus dem\u00e1s amigos sobre encontrar personas en quien puedes confiar y mantenerse a salvo entre todos.\r\n\r\n\r\n**Muchas chicas y mujeres en la India deben quedarse en sus hogares, donde est\u00e1n m\u00e1s protegidas contra el acoso que sufren en las calles. Pero m\u00e1s y m\u00e1s adolescentes est\u00e1n tomando coraje para cambiar esta situaci\u00f3n. Lee la historia de una de ellas.**\r\n", 
+  "source": "98f5f3cb3bc54e88a8937972eb3ee25c", 
+  "featured": false, 
+  "author_tags": [], 
+  "image": null, 
+  "published": null, 
+  "position": 26, 
+  "image_host": "http://thumbor.unicore.io", 
+  "slug": "keep_yourself_safe", 
+  "uuid": "cbfbdaaa501f437da33498380e6bf344"
+}
